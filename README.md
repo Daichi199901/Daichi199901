@@ -7,7 +7,7 @@ COACHTECH でフルスタックWeb開発を学習中です。
 ## 📂 学習成果物
 
 COACHTECH 教材のハンズオンで作成したリポジトリです。
-- [security-app-practice]　（https://github.com/Daichi199901/security-app-practice.git）　-CSRF保護とXSS対策（Laravel）
+- [security-app-practice]　（https://github.com/Daichi199901/security-app-practice.git)　-CSRF保護とXSS対策（Laravel）
 
 ## 🌱 これから挑戦したいこと
 問題を解決できるエンジニアになりたいです。
